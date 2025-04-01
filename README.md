@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Fira%20Code&center=true&width=500&height=100&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Georgia%20Code&center=true&width=500&height=100&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 
@@ -26,7 +26,7 @@
 
 ### 🚀 Technologies and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,R" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,python" alt="Tech Stack" />
 </p>
 
 
