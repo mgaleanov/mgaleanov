@@ -26,7 +26,7 @@
 
 🔹 Passionate about technology and software development.  
 🔹 I love creating innovative projects and learning new technologies.  
-🔹 Currently improving my skills in **[Technologies you are learning]**.  
+🔹 Currently improving my skills in **Python**.  
 
 ---
 
