@@ -27,7 +27,8 @@
 🔹 I love creating innovative projects and learning new technologies.  
 🔹 Currently improving my skills in **Python**.  
 
-img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 ---
 
