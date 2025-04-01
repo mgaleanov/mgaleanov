@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Architects+Daughter%20Code&center=true&width=1000&height=100&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Fire%20Code&center=true&width=1000&height=100&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 
