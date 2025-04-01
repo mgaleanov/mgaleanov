@@ -35,12 +35,6 @@
   <img src="https://skillicons.dev/icons?i=html,python" alt="Tech Stack" />
 </p>
 
----
-
-### 📌 Featured Projects:
-- 🔥 **[Project 1](#)** - Brief project description.
-- 🚀 **[Project 2](#)** - Brief project description.
-- 🌟 **[Project 3](#)** - Brief project description.
 
 ---
 
