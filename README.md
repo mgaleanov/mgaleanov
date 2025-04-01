@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
-
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 ## 🤖 Meet My AI Assistant!
 ```
       .-"      "-.
@@ -18,7 +18,7 @@
        `--------`
 ```
 👾 *"Welcome, human! Explore my projects and let's build something awesome!"*
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+
 ---
 
 ## 👋 Hi, I'm Miguel Galeano!
