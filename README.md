@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=INITIALIZING+SYSTEM...;LOADING+GITHUB+NEON+CITY...;ACCESS+GRANTED!;WELCOME+TO+THE+FUTURE!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
 ---
 
 ## 🤖 Meet My AI Assistant!
