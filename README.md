@@ -14,7 +14,7 @@
 
 ### 🚀 Technologies and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,python" alt="Tech Stack" />
 </p>
 
 ---
