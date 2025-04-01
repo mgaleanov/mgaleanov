@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Miguel+Galeano+and+statesman!&font=Fire%20Code&center=true&width=1000&height=100&duration=4000&pause=1000" alt="Typing SVG">
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ## 🤖 Meet My AI Assistant!
 ---
