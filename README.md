@@ -5,7 +5,7 @@
 
 ## 🤖 Meet My AI Assistant!
 ---
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/wendellmeset/vaporwave-skeleton-collection/blob/main/4aad8bc2529e3d2d41f325d9c75b9591.gif">
+<img align="left" top="500" height="270" width="400" alt="GIF" src="https://github.com/wendellmeset/vaporwave-skeleton-collection/blob/main/4aad8bc2529e3d2d41f325d9c75b9591.gif">
 
 ---
 👾 *"Welcome, human! Explore my projects and let's build something awesome!"*
@@ -18,7 +18,7 @@
 🔹 I love creating innovative projects and learning new technologies.  
 🔹 Currently improving my skills in **Python**.  
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/wendellmeset/vaporwave-skeleton-collection/blob/main/4aad8bc2529e3d2d41f325d9c75b9591.gif">
+
 
 
 
