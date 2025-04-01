@@ -5,17 +5,8 @@
 
 ## 🤖 Meet My AI Assistant!
 ```
-      .-"      "-.
-     /            \
-    |              |
-    |,  .-.  .-.  ,|
-    | )(_o/  \o_)( |
-    |/     /\     \|
-    (_     ^^     _)
-     \__|IIIIII|__/
-      | \IIIIII/ |
-      \          /
-       `--------`
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/wendellmeset/vaporwave-skeleton-collection/blob/main/4aad8bc2529e3d2d41f325d9c75b9591.gif">
+
 ```
 👾 *"Welcome, human! Explore my projects and let's build something awesome!"*
 
