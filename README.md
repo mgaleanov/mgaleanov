@@ -18,7 +18,7 @@
        `--------`
 ```
 👾 *"Welcome, human! Explore my projects and let's build something awesome!"*
-
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 ---
 
 ## 👋 Hi, I'm Miguel Galeano!
