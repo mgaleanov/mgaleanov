@@ -4,6 +4,24 @@
 
 ---
 
+## 🤖 Meet My AI Assistant!
+```
+      .-"      "-.
+     /            \
+    |              |
+    |,  .-.  .-.  ,|
+    | )(_o/  \o_)( |
+    |/     /\     \|
+    (_     ^^     _)
+     \__|IIIIII|__/
+      | \IIIIII/ |
+      \          /
+       `--------`
+```
+👾 *"Welcome, human! Explore my projects and let's build something awesome!"*
+
+---
+
 ## 👋 Hi, I'm Miguel Galeano!
 
 🔹 Passionate about technology and software development.  
