@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Explore+my+repositories!;I+am+Miguel+Galeano+and+statesman!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
----
+
 
 ## 🤖 Meet My AI Assistant!
 ```
@@ -27,8 +27,7 @@
 🔹 I love creating innovative projects and learning new technologies.  
 🔹 Currently improving my skills in **Python**.  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 
