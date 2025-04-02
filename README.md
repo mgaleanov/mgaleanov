@@ -13,7 +13,7 @@
 
 ## 👋 Hi, I'm Miguel Galeano!
 
-🔹 Passionate about technology and software development.  
+🔹 Passionate about technology.  
 🔹 I love creating innovative projects and learning new technologies.  
 🔹 Currently improving my skills in **Python**.  
 
