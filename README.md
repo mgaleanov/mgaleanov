@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Technologies and Tools:35
+### 🚀 Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,python" alt="Tech Stack" />
 </p>
