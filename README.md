@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Miguel+Galeano!;And;I+am+a+statistics+student&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=100" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Miguel+Galeano!;And;I+am+a+statistics+student&font=Fira%20Code&center=true&width=380&height=50&duration=3500&pause=100" alt="Example Usage - README Typing SVG">
 </p>
 
 ## 🤖 Meet My AI Assistant!
